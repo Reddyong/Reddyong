@@ -3,7 +3,7 @@
 <!--content-->
 # <h1 align="center">🎾 My Tech Stack</h1>
 
-<h3 align="center">📚 Back-End</h3>
+<h3 align="center">📚 BE</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/> 
@@ -16,17 +16,13 @@
 
 </div>
 
-<!--
-**Reddyong/Reddyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">✏️ Language</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=jameson&logoColor=white/> <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square/> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br><br>
+</div>
+
+
