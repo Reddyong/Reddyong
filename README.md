@@ -32,9 +32,20 @@
   <br>
 
   <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
+  
 </div>
 
+# <h1 align="center">🏅 My Status</h1>
 
+ <div align="center">
+ 
+ ![Reddyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Reddyong&show_icons=true&theme=radical)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Reddyong&layout=compact)
+
+ 
+</div>
 
 
 
