@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=ff8c00&height=200&section=header&text=Reddyong's%20Github&fontSize=70&fontColor=006400&animation=fadeIn"/>
+
+<!--content-->
+# <h3 align="center">🎾 My Tech Stack</h3>
+---
+
+
 
 <!--
 **Reddyong/Reddyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
