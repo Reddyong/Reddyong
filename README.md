@@ -30,7 +30,7 @@
 <h3 align="center">🛠️ Tools</h3>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=gitkraken&logoColor=white"/>
   
   <br>
 
